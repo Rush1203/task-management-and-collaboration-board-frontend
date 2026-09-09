@@ -11,9 +11,7 @@ exist on this side.
 | **App** | `https://rush1203taskmanagement.netlify.app` |
 | **Backend API it talks to** | `https://task-management-and-collaboration-board.onrender.com/api` |
 
-> The backend is hosted on Render's free tier, which spins down after
-> inactivity — the very first login/register after a period of no traffic can
-> take up to ~30 seconds while it wakes back up.
+
 
 ## Demo Admin Login
 
